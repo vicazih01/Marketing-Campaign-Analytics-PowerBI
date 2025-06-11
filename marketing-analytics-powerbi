@@ -1,0 +1,40 @@
+# 📈 Marketing Analysis Dashboard (Power BI)
+
+## 🧠 Objective
+
+Analyze the performance of digital marketing campaigns to uncover insights on cost efficiency, customer engagement, and channel ROI — enabling data-driven campaign optimization.
+
+## 🧩 Tools & Dataset
+
+- Power BI (for dashboard creation)
+- Excel/CSV data of marketing campaigns
+- Metrics analyzed: ROI, CPC, CTR, conversion rate, engagement, impressions
+
+## 🔍 Key Insights
+
+- **Total Cost:** 3 billion across all campaigns
+- **Average ROI:** 5.00, with Facebook showing the highest ROI (5.02)
+- **Top Channels:** Google Ads and Email tied at ROI of 5.00
+- **Customer Segments:** Foodies and Fashionistas were top-engaged segments
+- **Geographic ROI:** Miami had the best performance, while New York lagged
+- **Cost Trend:** Q2 had the highest spend at 632.1M
+
+## 📊 Dashboard Highlights
+
+- KPI cards for ROI, Cost, Clicks, CPC, CTR, Conversion Rate
+- Treemap for ROI by channel
+- Donut chart for Engagement by Customer Segment
+- Line graph for ROI by location
+- Area chart showing cost trends per quarter
+
+## 🖼️ Dashboard Screenshot
+
+![Marketing Dashboard](./352b9578-9a80-4703-8743-ea58995dcf4b.png)
+
+> 📁 *Built in Power BI. Visualizes real campaign data over 2021.*
+
+## 🧾 Download Dataset
+
+📥 [Click to download the marketing dataset](./marketing_campaign_dataset.csv.xlsx)
+
+> Includes campaign type, location, impressions, clicks, cost, and engagement data
